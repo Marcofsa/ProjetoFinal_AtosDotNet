@@ -1,0 +1,19 @@
+.caixa {
+    position: relative;
+    width: 300px !important;
+    margin: 0 auto;
+}
+
+.cabeca {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.background {
+    width: auto !important;
+    height: auto !important;
+   background-image: url('../img/background.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+

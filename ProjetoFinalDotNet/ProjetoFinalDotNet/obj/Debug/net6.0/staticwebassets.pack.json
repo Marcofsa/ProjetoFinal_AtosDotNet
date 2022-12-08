@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\ProjetoFinalDotNet.bundle.scp.css"
     },
     {
+      "Id": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\Img\\background.jpg",
+      "PackagePath": "staticwebassets\\Img\\background.jpg"
+    },
+    {
+      "Id": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\Img\\controle.png",
+      "PackagePath": "staticwebassets\\Img\\controle.png"
+    },
+    {
       "Id": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\favicon.ico",

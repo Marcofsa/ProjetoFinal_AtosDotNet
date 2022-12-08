@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UgbAXMdR5/wT1v9B4k42LBcDBYSINivcc2z6YErHJ4c=",
+  "Hash": "UGJGkFlWKNKljcgcxh3vdAKDbbb5lSLUtCJ6NncMx24=",
   "Source": "ProjetoFinalDotNet",
   "BasePath": "_content/ProjetoFinalDotNet",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\css\\style.css",
+      "SourceId": "ProjetoFinalDotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinalDotNet",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
       "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\favicon.ico",
       "SourceId": "ProjetoFinalDotNet",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\Img\\background.jpg",
+      "SourceId": "ProjetoFinalDotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinalDotNet",
+      "RelativePath": "Img/background.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\background.jpg"
+    },
+    {
+      "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\Img\\controle.png",
+      "SourceId": "ProjetoFinalDotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinalDotNet",
+      "RelativePath": "Img/controle.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\controle.png"
     },
     {
       "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\js\\site.js",
