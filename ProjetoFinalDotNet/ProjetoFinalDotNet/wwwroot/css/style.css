@@ -16,4 +16,12 @@
    background-repeat: no-repeat;
    background-size: cover;
 }
+.botao:hover
+{
+    text-transform: uppercase;
+    font-size: 40px;
+    text-decoration: none;
+    color: #00ff21;
+
+}
 

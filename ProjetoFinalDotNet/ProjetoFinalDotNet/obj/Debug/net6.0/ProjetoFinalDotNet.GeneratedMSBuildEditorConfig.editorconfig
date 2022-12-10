@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoFinalDotNet
 build_property.RootNamespace = ProjetoFinalDotNet
-build_property.ProjectDir = c:\DesafioAvaliativoFinal_Atos\ProjetoFinal_AtosDotNet\ProjetoFinalDotNet\ProjetoFinalDotNet\
+build_property.ProjectDir = C:\DesafioAvaliativoFinal_Atos\ProjetoFinal_AtosDotNet\ProjetoFinalDotNet\ProjetoFinalDotNet\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\DesafioAvaliativoFinal_Atos\ProjetoFinal_AtosDotNet\ProjetoFinalDotNet\ProjetoFinalDotNet
+build_property.MSBuildProjectDirectory = C:\DesafioAvaliativoFinal_Atos\ProjetoFinal_AtosDotNet\ProjetoFinalDotNet\ProjetoFinalDotNet
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Create.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Delete.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Details.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Edit.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Index.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Biblioteca/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Home/Index.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Home/Privacy.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Shared/Error.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/_ViewImports.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/_ViewStart.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Shared/_Layout.cshtml]
+[C:/DesafioAvaliativoFinal_Atos/ProjetoFinal_AtosDotNet/ProjetoFinalDotNet/ProjetoFinalDotNet/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lw79e7wp6k

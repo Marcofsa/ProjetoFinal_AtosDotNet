@@ -12,6 +12,7 @@
 </head>
 <body class="cabeca">
     <h2>
+        
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"></a>
@@ -19,17 +20,22 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+                </div>
+               
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+                        <li class="botao">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Início</a>
-                        </li>
+                     
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Biblioteca" asp-action="Index">Cadastrar</a>
                         </li>
+                       
                     </ul>
+              
                 </div>
-            </div>
+           
         </nav>
     </h2>
     <header></header>
