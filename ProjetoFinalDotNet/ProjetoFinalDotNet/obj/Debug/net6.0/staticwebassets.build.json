@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UGJGkFlWKNKljcgcxh3vdAKDbbb5lSLUtCJ6NncMx24=",
+  "Hash": "4scBVRpx12qY83WMZ2bDwV4LuU0bRn+UFO0Nl8rNum0=",
   "Source": "ProjetoFinalDotNet",
   "BasePath": "_content/ProjetoFinalDotNet",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\font\\Pretendo.ttf",
+      "SourceId": "ProjetoFinalDotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinalDotNet",
+      "RelativePath": "font/Pretendo.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\Pretendo.ttf"
     },
     {
       "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\Img\\background.jpg",
