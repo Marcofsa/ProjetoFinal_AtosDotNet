@@ -4,13 +4,15 @@
     ViewData["Title"] = "Lista e Cadastro";
 }
 <link rel="stylesheet" href="~/css/style.css">
+
 <h1 class="text-center">Lista e Cadastro</h1>
+<hr/>
 
 <h2>
     <a asp-action="Create" class="botao">Cadastrar novo</a>
 </h2>
-    <table class="table background" >
-        <thead>
+    <table class="table fundo" >
+        <thead >
             <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Nome)

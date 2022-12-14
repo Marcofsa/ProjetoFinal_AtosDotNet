@@ -8,14 +8,20 @@
     background-color: #ffffff;
     text-align: center;
 }
+.fundo {
+    width: auto !important;
+    height: auto !important;
+    background-image: url('../Img/fonte.jpg') !important;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
 
 .background {
     width: auto !important;
     height: auto !important;
-   background-image: url('../img/background.jpg');
-   background-repeat: no-repeat;
-   background-size: cover;
-   
+    background-image: url('../Img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .botao:hover
 {

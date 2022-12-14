@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Img\\controle.png"
     },
     {
+      "Id": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\Img\\fonte.jpg",
+      "PackagePath": "staticwebassets\\Img\\fonte.jpg"
+    },
+    {
       "Id": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

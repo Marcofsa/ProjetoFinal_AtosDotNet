@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4scBVRpx12qY83WMZ2bDwV4LuU0bRn+UFO0Nl8rNum0=",
+  "Hash": "ULX5vrqcSv/ELh+ZZCptstOU5n3G6e0GD8x/q29Gl7o=",
   "Source": "ProjetoFinalDotNet",
   "BasePath": "_content/ProjetoFinalDotNet",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Img\\controle.png"
+    },
+    {
+      "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\Img\\fonte.jpg",
+      "SourceId": "ProjetoFinalDotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\",
+      "BasePath": "_content/ProjetoFinalDotNet",
+      "RelativePath": "Img/fonte.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\fonte.jpg"
     },
     {
       "Identity": "C:\\DesafioAvaliativoFinal_Atos\\ProjetoFinal_AtosDotNet\\ProjetoFinalDotNet\\ProjetoFinalDotNet\\wwwroot\\js\\site.js",
