@@ -5,13 +5,13 @@
 }
 <link rel="stylesheet" href="~/css/style.css">
 
-<h1 class="text-center">Lista e Cadastro</h1>
+<h1 class="text-center text-element">Lista e Cadastro</h1>
 <hr/>
 
 <h2>
-    <a asp-action="Create" class="botao">Cadastrar novo</a>
+    <a asp-action="Create" class="botao text-element">Cadastrar novo</a>
 </h2>
-    <table class="table fundo" >
+<table class="table fundo">
         <thead >
             <tr>
             <th>
@@ -45,10 +45,10 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Descrição)
             </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+            <td >
+               <a class="text-element botaoli" asp-action="Edit" asp-route-id="@item.Id">Alterar</a>
+               <a class="text-element botaoli" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+               <a class="text-element botaoli" asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
             </td>
         </tr>
 }
