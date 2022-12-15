@@ -34,7 +34,8 @@
     font-family: 'pretendo';
     src: url('../font/pretendo.ttf') format('truetype');
 }
-#text-element {
+
+.text-element {
    font-family: pretendo, Arial;
 }
 
